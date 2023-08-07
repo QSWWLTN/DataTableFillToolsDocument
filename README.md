@@ -28,12 +28,12 @@
 9. After filling in the name of the data table you want to save, click the "SaveDataToDataTable" button. When the prompt is completed, the created data table will be located in the /Game/ConfigDataTable directory
 
 10. If you have created a data table to save this structure before, or if you want to continue to modify it after creating it according to the above steps, please ensure that the data table is located in the /Game/ConfigDataTable directory, and the plug-in can only read the data table in this directory; <br> Please click "Select Target DataTable Name" (if you just clicked the "+" button, please press the "+" button again, it will return to the "Select Target DataTable Name" drop-down box) and select the data you need to modify table, click the "Save Data To DataTable" button again <br>
-![image](https://github.com/QSWWLTN/DataTableFillToolsDocument/assets/52273933/d0f62118-3b9b-48ee-badd-572aa7123135)
+![image](https://github.com/QSWWLTN/DataTableFillToolsDocument/assets/52273933/d0f62118-3b9b-48ee-badd-572aa7123135)<br>
 
 ## Load Data Section
 1. If you want to read the data in the data table, please select the variable name you need to read and the name of the data table you need to read according to the save data section just now
 
 2. Modify the value of the "ID" field in the variable, it will indicate which ID's data is read
-![image](https://github.com/QSWWLTN/DataTableFillToolsDocument/assets/52273933/a7bd30a1-a166-4a86-b974-83d58b0c0d53)
+![image](https://github.com/QSWWLTN/DataTableFillToolsDocument/assets/52273933/a7bd30a1-a166-4a86-b974-83d58b0c0d53)<br>
 
 3. Click the "Load Data From DataTable" button, it will overwrite the value of the variable in your blueprint (later versions will add the function of reading at runtime)
