@@ -27,7 +27,7 @@
 
 9. After filling in the name of the data table you want to save, click the "SaveDataToDataTable" button. When the prompt is completed, the created data table will be located in the /Game/ConfigDataTable directory
 
-10. If you have created a data table to save this structure before, or if you want to continue to modify it after creating it according to the above steps, please ensure that the data table is located in the /Game/ConfigDataTable directory, and the plug-in can only read the data table in this directory ;Please click "Select Target DataTable Name" (if you just clicked the "+" button, please press the "+" button again, it will return to the "Select Target DataTable Name" drop-down box) and select the data you need to modify table, click the "Save Data To DataTable" button again
+10. If you have created a data table to save this structure before, or if you want to continue to modify it after creating it according to the above steps, please ensure that the data table is located in the /Game/ConfigDataTable directory, and the plug-in can only read the data table in this directory; <br> Please click "Select Target DataTable Name" (if you just clicked the "+" button, please press the "+" button again, it will return to the "Select Target DataTable Name" drop-down box) and select the data you need to modify table, click the "Save Data To DataTable" button again <br>
 ![image](https://github.com/QSWWLTN/DataTableFillToolsDocument/assets/52273933/d0f62118-3b9b-48ee-badd-572aa7123135)
 
 ## Load Data Section
